@@ -1,0 +1,9 @@
+request
+pyymal
+numpy
+yapf
+addict
+isort
+pre-commit
+flake8
+expecttest
